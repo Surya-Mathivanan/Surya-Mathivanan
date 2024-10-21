@@ -7,11 +7,11 @@
 
 - 🌱 I’m currently learning **Artificial Intelligence and Data Science**
 
-- 👨‍💻 All of my projects are available at [https://surya-mathivanan.github.io/]([https://surya-mathivanan.github.io/])
+- 👨‍💻 All of my projects are available at [https://surya-mathivanan.netlify.app/]
 
 - 📫 How to reach me **msuryamsurya2003@gmail.com**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1K1-kQioPxS5UvhOFRktFHDgnu9SNWcqWKa3miNV9nho/edit?usp=sharing](https://docs.google.com/document/d/1K1-kQioPxS5UvhOFRktFHDgnu9SNWcqWKa3miNV9nho/edit?usp=sharing)
+- 📄 Know about my experiences 
 
 - ⚡ Fun fact **extrovert**
 
