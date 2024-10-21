@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Artificial Intelligence and Data Science**
 
-- 👨‍💻 All of my projects are available at [https://surya-mathivanan.github.io/](https://surya-mathivanan.github.io/)
+- 👨‍💻 All of my projects are available at [https://surya-mathivanan.github.io/]([https://surya-mathivanan.github.io/])
 
 - 📫 How to reach me **msuryamsurya2003@gmail.com**
 
