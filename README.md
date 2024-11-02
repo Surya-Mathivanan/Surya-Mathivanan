@@ -19,7 +19,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/surya-m" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="surya-m" height="30" width="40" /></a>
 <a href="https://kaggle.com/surya-ai&ds" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="surya-ai&ds" height="30" width="40" /></a>
-<a href="https://fb.com/surya m" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="surya m" height="30" width="40" /></a>
+<a href="https://fb.com/surya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="surya m" height="30" width="40" /></a>
 <a href="https://instagram.com/surya__.x._" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="surya__.x._" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/surya_mathivanan" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="surya_mathivanan" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/surya_mathivanan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="surya_mathivanan" height="30" width="40" /></a>
