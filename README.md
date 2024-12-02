@@ -34,11 +34,9 @@
 <p style="text-align: center;">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=surya-mathivanan&show_icons=true&locale=en&layout=compact" alt="surya-mathivanan" width="400" height="200" />
 </p>
-
 <p style="text-align: center;">
   <img src="https://github-readme-stats.vercel.app/api?username=surya-mathivanan&show_icons=true&locale=en" alt="surya-mathivanan" width="400" height="200" />
 </p>
-
 <p style="text-align: center;">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=surya-mathivanan&" alt="surya-mathivanan" width="400" height="200" />
 </p>
