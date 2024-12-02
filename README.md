@@ -41,5 +41,8 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=surya-mathivanan&" alt="surya-mathivanan" width="400" height="200" />
 </p>
 
+<img src="https://raw.githubusercontent.com/surya-mathivanan/surya-mathivanan/output/snake.svg" alt="Snake animation" />
+
+
 
 
