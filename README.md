@@ -13,7 +13,11 @@
 
 - 👨‍💻 Portfolio link is [https://surya.com](https://surya-com.netlify.app)
 
-- 📫 How to reach me [mail](msuryamsurya2003@gmail.com) , [Message](9344859103)
+- 📫 How to reach me  <a href="mailto:msuryamsurya2003@gmail.com">Mail</a>, <a href="tel:+919344859103">Message</a>
+- <p>📫 How to reach me: 
+  <a href="mailto:msuryamsurya2003@gmail.com">Mail</a>, 
+  <a href="tel:+919344859103">Message</a>
+</p>
 
 - 📄 Know about my experiences [visit my repositories](https://github.com/Surya-Mathivanan?tab=repositories)
 
