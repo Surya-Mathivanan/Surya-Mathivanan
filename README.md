@@ -32,16 +32,16 @@
 
 
 <p style="text-align: center;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=surya-mathivanan&show_icons=true&locale=en&layout=compact" alt="surya-mathivanan" width="400" height="200" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=surya-mathivanan&show_icons=true&locale=en&layout=compact" alt="surya-mathivanan" />
 </p>
 <p style="text-align: center;">
-  <img src="https://github-readme-stats.vercel.app/api?username=surya-mathivanan&show_icons=true&locale=en" alt="surya-mathivanan" width="400" height="200" />
+  <img src="https://github-readme-stats.vercel.app/api?username=surya-mathivanan&show_icons=true&locale=en" alt="surya-mathivanan"  />
 </p>
 <p style="text-align: center;">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=surya-mathivanan&" alt="surya-mathivanan" width="400" height="200" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=surya-mathivanan&" alt="surya-mathivanan" />
 </p>
 
-<img src="https://raw.githubusercontent.com/surya-mathivanan/surya-mathivanan/output/snake.svg" alt="Snake animation" />
+
 
 
 
