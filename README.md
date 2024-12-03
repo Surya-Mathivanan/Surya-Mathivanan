@@ -21,7 +21,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-    <a href="https://linkedin.com/in/surya-m" target="blank">
+    <a href="https://linkedin.com/in/surya-mathivanan" target="blank">
         <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Icon" />
     </a>
     <a href="https://www.codechef.com/users/surya_mathivanan" target="blank">
