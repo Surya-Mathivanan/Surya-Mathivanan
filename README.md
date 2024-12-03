@@ -17,7 +17,7 @@
 
 - 📄 Know about my experiences [visit my repositories](https://github.com/Surya-Mathivanan?tab=repositories)
 
-- ⚡ Fun fact **extrovert**
+- ⚡ Fun fact [extrovert](https://drive.google.com/file/d/1BHF6VKWZybi5hTRm11231NXQ_1vH-iX4/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
