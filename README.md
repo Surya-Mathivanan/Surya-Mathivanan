@@ -11,11 +11,11 @@
 
 - 🌱 I’m currently learning **Artificial Intelligence and Data Science**
 
-- 👨‍💻 All of my projects are available at [https://surya-com.netlify.app]
+- 👨‍💻 Portfolio link is [https://surya.com](https://surya-com.netlify.app)
 
-- 📫 How to reach me **msuryamsurya2003@gmail.com**
+- 📫 How to reach me [mail](msuryamsurya2003@gmail.com) , [Message](9344859103)
 
-- 📄 Know about my experiences 
+- 📄 Know about my experiences [visit my repositories](https://github.com/Surya-Mathivanan?tab=repositories)
 
 - ⚡ Fun fact **extrovert**
 
