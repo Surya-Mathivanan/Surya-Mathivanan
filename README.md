@@ -28,7 +28,7 @@
     <a href="https://www.linkedin.com/in/surya--mathivanan" target="blank">
         <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Icon" />
     </a>
-    <a href="https://www.codechef.com/users/surya_mathivanan" target="blank">
+    <a href="https://www.codechef.com/users/surya_mathi" target="blank">
         <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef Icon" />
     </a>
     <a href="https://www.hackerrank.com/surya_mathivanan" target="blank">
