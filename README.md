@@ -93,8 +93,8 @@
   </a>
   <!-- GitHub Streak -->
   <a href="https://github.com/surya-mathivanan">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=surya-mathivanan&theme=radical" width="50%" alt="GitHub Streak" />
-  </a>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=surya-mathivanan&theme=radical" alt="GitHub Streak" width="50%" />
+</a>
 </p>
 
 <p style="text-align: center;">
