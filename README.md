@@ -26,8 +26,8 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
     <a href="https://www.linkedin.com/in/surya--mathivanan" target="blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Icon" />
-</a>
+        <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Icon" />
+    </a>
     <a href="https://www.codechef.com/users/surya_mathivanan" target="blank">
         <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef Icon" />
     </a>
@@ -35,7 +35,7 @@
         <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank Icon" />
     </a>
     <a href="https://instagram.com/surya__.x._" target="blank">
-        <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Icon" />
+        <img src="https://img.shields.io/badge/Instagram-9B4F96?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Icon" />
     </a>
     <a href="https://fb.com/surya" target="blank">
         <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Icon" />
@@ -51,39 +51,50 @@
     </a>     
 </p>
 
+
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
     <a href="https://github.com/surya-mathivanan">
         <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python Icon" />
     </a>
     <a href="https://www.java.com" target="_blank" rel="noreferrer">
-        <img src="https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java Icon" />
+        <img src="https://img.shields.io/badge/-Java-FF0000?style=for-the-badge&logo=java&logoColor=white" alt="Java Icon" />
     </a>
     <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
         <img src="https://img.shields.io/badge/-C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C Icon" />
     </a>
     <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-        <img src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5 Icon" />
+        <img src="https://img.shields.io/badge/-HTML5-FF5722?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5 Icon" />
     </a>
     <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-        <img src="https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3 Icon" />
+        <img src="https://img.shields.io/badge/-CSS3-005A9C?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3 Icon" />
     </a>
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-        <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript Icon" />
+        <img src="https://img.shields.io/badge/-JavaScript-FFD700?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript Icon" />
     </a>
-    <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-        <img src="https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL Icon" />
+    <a href="https://matplotlib.org/" target="_blank" rel="noreferrer">
+        <img src="https://img.shields.io/badge/-Matplotlib-32CD32?style=for-the-badge&logo=matplotlib&logoColor=white" alt="Matplotlib Icon" />
+    </a>
+    <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer">
+        <img src="https://img.shields.io/badge/-Flask-660000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask Icon" />
     </a>
     <a href="https://opencv.org/" target="_blank" rel="noreferrer">
         <img src="https://img.shields.io/badge/-OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV Icon" />
     </a>
     <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
-        <img src="https://img.shields.io/badge/-Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas Icon" />
+        <img src="https://img.shields.io/badge/-Pandas-2D3241?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas Icon" />
     </a>
     <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer">
         <img src="https://img.shields.io/badge/-Seaborn-9E5B6B?style=for-the-badge&logo=seaborn&logoColor=white" alt="Seaborn Icon" />
     </a>
+    <a href="https://numpy.org/" target="_blank" rel="noreferrer">
+        <img src="https://img.shields.io/badge/-NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy Icon" />
+    </a>
+    <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+        <img src="https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL Icon" />
+    </a>
 </p>
+
 
 <h3 align="left">Others:</h3>
 <p align="center">
