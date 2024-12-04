@@ -87,13 +87,16 @@
 
 <h3 align="left">Others:</h3>
 <p align="center">
+  <!-- GitHub Stats -->
   <a href="https://github.com/surya-mathivanan">
-    <img src="https://github-readme-stats.vercel.app/api?username=surya-mathivanan&show_icons=true&theme=radical" width="47%" />
+    <img src="https://github-readme-stats.vercel.app/api?username=surya-mathivanan&show_icons=true&theme=radical" width="47%" alt="GitHub Stats" />
   </a>
+  <!-- GitHub Streak -->
   <a href="https://github.com/surya-mathivanan">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=surya-mathivanan&theme=radical" width="50%" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=surya-mathivanan&theme=radical" width="50%" alt="GitHub Streak" />
   </a>
-</p>  
+</p>
+
 <p style="text-align: center;">
   <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdnlnZ2E0bXFqMXcyYmoybHZsN3g1anNhbmVyOWlzNTNuMzR6cjc0ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/UQ25FULQkgfwALbzpR/giphy.webp" width="29%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=surya-mathivanan&show_icons=true&locale=en&layout=compact&theme=radical" alt="surya-mathivanan" width="35%" />
