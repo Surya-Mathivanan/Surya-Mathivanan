@@ -102,9 +102,8 @@
   <a href="https://github.com/surya-mathivanan">
     <img src="https://github-readme-stats.vercel.app/api?username=surya-mathivanan&show_icons=true&theme=radical" width="47%" alt="GitHub Stats" />
   </a>
-  <!-- GitHub Streak -->
   <a href="https://github.com/surya-mathivanan">
-    <img src="https://img.shields.io/badge/streak-stats-red?style=for-the-badge&logo=github" alt="GitHub Streak" width="50%" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=surya-mathivanan&theme=radical" alt="GitHub Streak" width="50%" />
   </a>
 </p>
 
