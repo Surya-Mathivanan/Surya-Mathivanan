@@ -10,7 +10,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=surya-mathivanan&label=Profile%20views&color=0e75b6&style=flat" alt="surya-mathivanan" /> </p>
 
 - 🌱 I’m currently learning **Artificial Intelligence and Data Science**
-- See my resume [here](https://drive.google.com/file/d/1YONLZcecEoN6yHalapCUkgGOtwjgbrPb/view?usp=sharing)
+- 📄 See my resume [here](https://drive.google.com/file/d/1YONLZcecEoN6yHalapCUkgGOtwjgbrPb/view?usp=sharing)
 
 - 👨‍💻 Portfolio link is [https://surya.com](https://surya-com.netlify.app)
 
