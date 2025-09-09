@@ -1,4 +1,8 @@
-<h1 align="center">
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header" width="100%"/>
+</div>
+
+<h1 align="center" style="margin-top: 15px;">
   Hi there, I'm Surya! 👋
   <br />
   <a href="https://github.com/surya-mathivanan">
@@ -25,7 +29,39 @@
 - ⚡ Fun fact [extrovert](https://drive.google.com/file/d/1BHF6VKWZybi5hTRm11231NXQ_1vH-iX4/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
+
+
+
+## 🛠️ Tech Stack & Skills
+
 <p align="left">
+    <!-- Programming Languages -->
+    <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+    <img src="https://img.shields.io/badge/-Java-FF0000?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
+    <img src="https://img.shields.io/badge/-C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />
+    <img src="https://img.shields.io/badge/-JavaScript-FFD700?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+    <img src="https://img.shields.io/badge/-HTML5-FF5722?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+    <img src="https://img.shields.io/badge/-CSS3-005A9C?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+    <img src="https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
+    <img src="https://img.shields.io/badge/-Flask-660000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" />
+    <img src="https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+    <img src="https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+    <img src="https://img.shields.io/badge/-Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" />
+    <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    <img src="https://img.shields.io/badge/-Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Netlify" />
+    <img src="https://img.shields.io/badge/-Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
+    <img src="https://img.shields.io/badge/-VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
+    <img src="https://img.shields.io/badge/-Cursor_IDE-000000?style=for-the-badge&logo=cursor&logoColor=white" alt="Cursor IDE" />
+    <img src="https://img.shields.io/badge/-NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
+    <img src="https://img.shields.io/badge/-Pandas-2D3241?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
+    <img src="https://img.shields.io/badge/-Matplotlib-32CD32?style=for-the-badge&logo=matplotlib&logoColor=white" alt="Matplotlib" />
+    <img src="https://img.shields.io/badge/-Seaborn-9E5B6B?style=for-the-badge&logo=seaborn&logoColor=white" alt="Seaborn" />
+    <img src="https://img.shields.io/badge/-OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV" />
+    <img src="https://img.shields.io/badge/-Collaboration-FF6B6B?style=for-the-badge&logo=handshake&logoColor=white" alt="Collaboration" />
+    <img src="https://img.shields.io/badge/-Adaptability-4ECDC4?style=for-the-badge&logo=refresh&logoColor=white" alt="Adaptability" />
+    <img src="https://img.shields.io/badge/-Quick_Learner-45B7D1?style=for-the-badge&logo=brain&logoColor=white" alt="Quick Learner" />
+    <img src="https://img.shields.io/badge/-Hard_Worker-96CEB4?style=for-the-badge&logo=muscle&logoColor=white" alt="Hard Worker" />
+    <img src="https://img.shields.io/badge/-Vibe_Coder-FFEAA7?style=for-the-badge&logo=code&logoColor=black" alt="Vibe Coder" />
     <a href="https://www.linkedin.com/in/surya--mathivanan" target="blank">
         <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Icon" />
     </a>
@@ -49,52 +85,12 @@
     </a>
     <a href="https://kaggle.com/surya-ai&ds" target="blank">
         <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle Icon" />
-    </a>     
+    </a>
 </p>
 
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-    <a href="https://github.com/surya-mathivanan">
-        <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python Icon" />
-    </a>
-    <a href="https://www.java.com" target="_blank" rel="noreferrer">
-        <img src="https://img.shields.io/badge/-Java-FF0000?style=for-the-badge&logo=java&logoColor=white" alt="Java Icon" />
-    </a>
-    <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-        <img src="https://img.shields.io/badge/-C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C Icon" />
-    </a>
-    <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-        <img src="https://img.shields.io/badge/-HTML5-FF5722?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5 Icon" />
-    </a>
-    <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-        <img src="https://img.shields.io/badge/-CSS3-005A9C?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3 Icon" />
-    </a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-        <img src="https://img.shields.io/badge/-JavaScript-FFD700?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript Icon" />
-    </a>
-    <a href="https://matplotlib.org/" target="_blank" rel="noreferrer">
-        <img src="https://img.shields.io/badge/-Matplotlib-32CD32?style=for-the-badge&logo=matplotlib&logoColor=white" alt="Matplotlib Icon" />
-    </a>
-    <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer">
-        <img src="https://img.shields.io/badge/-Flask-660000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask Icon" />
-    </a>
-    <a href="https://opencv.org/" target="_blank" rel="noreferrer">
-        <img src="https://img.shields.io/badge/-OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV Icon" />
-    </a>
-    <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
-        <img src="https://img.shields.io/badge/-Pandas-2D3241?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas Icon" />
-    </a>
-    <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer">
-        <img src="https://img.shields.io/badge/-Seaborn-9E5B6B?style=for-the-badge&logo=seaborn&logoColor=white" alt="Seaborn Icon" />
-    </a>
-    <a href="https://numpy.org/" target="_blank" rel="noreferrer">
-        <img src="https://img.shields.io/badge/-NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy Icon" />
-    </a>
-    <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-        <img src="https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL Icon" />
-    </a>
-</p>
+
+
 
 
 <h3 align="left">Others:</h3>
@@ -121,6 +117,12 @@
 </p>
 
 
+
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%"/>
+
+</div>
 
 
 
